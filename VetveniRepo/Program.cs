@@ -58,7 +58,7 @@ switch(vyberUzivatele)
         }
         break;
 
-    default: 
-        Console.WriteLine("Coming soon");
+    default:
+        Console.WriteLine("chyba");
     break;
 }
